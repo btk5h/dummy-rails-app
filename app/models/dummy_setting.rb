@@ -1,0 +1,2 @@
+class DummySetting < BaseSingleton
+end
